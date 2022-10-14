@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Mehdi
-- 👀 I’m interested in Phil, Systems thinking, and DP. 
-- 🌱 I’m currently learning whatever comes my way. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mehdiraza1@hotmail.com
 - 👨‍💻 Main Profile: https://github.com/mehhdiii
 
